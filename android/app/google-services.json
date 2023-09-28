@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "858601334308",
+    "project_id": "vumoniclabs-f11cf",
+    "storage_bucket": "vumoniclabs-f11cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858601334308:android:80e64e6bd720d2f7665ab1",
+        "android_client_info": {
+          "package_name": "com.vumoniclabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858601334308-267jr6df3hoeqv6itqlhrufk5dc30bsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vumoniclabs",
+            "certificate_hash": "8176596e73d0868bb89fbf70c933270801e2c6de"
+          }
+        },
+        {
+          "client_id": "858601334308-gavgc4egnvtbeig89lo3poaostiqnf42.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vumoniclabs",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "858601334308-m325phr6kfkbj1vgkobv00jaebit2ci7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbiVJZZ_4LbYH2FNESDFDERB6szt2-Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858601334308-m325phr6kfkbj1vgkobv00jaebit2ci7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
